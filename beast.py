@@ -24,7 +24,7 @@ input.click()
 input=driver.find_element_by_xpath('//*[@id="btmcntbook"]')
 input.click()
 
-
+#i take beast movie as example and made auto ticket booking 
 
 
 
